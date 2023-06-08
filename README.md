@@ -5,7 +5,7 @@
 ### Where am i learning it from?
 
 - You can just search on the YouTube (golang tutorial).
-- It is a video from ( Hitesh Choudhary )[https://www.youtube.com/@HiteshChoudharydotcom]
+- It is a video from [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom)
 
 ### What are your thooughs on golang?
 
